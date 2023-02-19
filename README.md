@@ -1,2 +1,2 @@
-# keymaps
-Keymaps for my QMK keyboards.
+# QMK Keymaps
+Keymaps for my QMK keyboards - 3
